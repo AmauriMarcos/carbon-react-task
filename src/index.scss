@@ -1,0 +1,13 @@
+@use '@carbon/react';
+
+.cds--content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+.cds--header__menu-toggle:not(.cds--header__menu-toggle__hidden) ~ .cds--header__name{
+  color: #ccc;
+  font-weight: normal;
+}
