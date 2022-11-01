@@ -20,7 +20,7 @@ It's a UI shell with a left sidebar. You can navigate using either sidebar or he
 1. Clone the repo
 
    ```
-  https://github.com/AmauriMarcos/carbon-react-task.git
+  git clone https://github.com/AmauriMarcos/carbon-react-task.git
    ```
 
 2. Install NPM packages
